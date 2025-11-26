@@ -35,10 +35,11 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/student-manager-cli.git
 cd student-manager-cli
-
+```
 ### Usage
 Run this program:
 ```bash
 python student_manager.py
+```
 
 
