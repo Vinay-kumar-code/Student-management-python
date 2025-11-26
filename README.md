@@ -41,5 +41,17 @@ Run this program:
 ```bash
 python student_manager.py
 ```
+You'll see a menu like this:
+```bash
+1. Add Student
+2. View All Students
+3. Show Total Students
+4. Remove a Student from list
+5. Search for a student
+6. Average age
+7. Save the Data
+8. Load the Data
+9. Quit
+```
 
 
