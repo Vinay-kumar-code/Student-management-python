@@ -53,5 +53,13 @@ You'll see a menu like this:
 8. Load the Data
 9. Quit
 ```
+### Future Improvements Planned
+- Add error handling for invaild inputs
+- Support multiple subjects dynamically
+- Add GPA/grade calculation
+- Build a GUI version using Tkinter or PyQt
+- Extend to database storage
 
+### License
+This project is licensed under the GNU general Public License v3.0
 
